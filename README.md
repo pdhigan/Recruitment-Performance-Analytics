@@ -59,3 +59,4 @@ Dashboard Page 1
 https://github.com/pdhigan/Recruitment-Performance-Analytics/blob/main/Dashboard%20Images/Dashboard_Page1.png
 
 Dashboard Page 2
+https://github.com/pdhigan/Recruitment-Performance-Analytics/blob/main/Dashboard%20Images/Dashboard_Page2.png
